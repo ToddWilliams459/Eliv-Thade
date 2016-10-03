@@ -1,0 +1,36 @@
+\\banner.main.ad.rit.edu\students\tkw8341\igmprofile\documents\visual studio 2012\Projects\ElivThade\ElivThade\bin\Debug\ElivThade.exe.config
+\\banner.main.ad.rit.edu\students\tkw8341\IGMProfile\Documents\Visual Studio 2012\Projects\ElivThade\ElivThade\bin\Debug\ElivThade.exe
+\\banner.main.ad.rit.edu\students\tkw8341\IGMProfile\Documents\Visual Studio 2012\Projects\ElivThade\ElivThade\bin\Debug\ElivThade.pdb
+\\banner.main.ad.rit.edu\students\tkw8341\IGMProfile\Documents\Visual Studio 2012\Projects\ElivThade\ElivThade\obj\Debug\ElivThade.csprojResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\tkw8341\IGMProfile\Documents\Visual Studio 2012\Projects\ElivThade\ElivThade\obj\Debug\ElivThade.Form1.resources
+\\banner.main.ad.rit.edu\students\tkw8341\IGMProfile\Documents\Visual Studio 2012\Projects\ElivThade\ElivThade\obj\Debug\ElivThade.Properties.Resources.resources
+\\banner.main.ad.rit.edu\students\tkw8341\IGMProfile\Documents\Visual Studio 2012\Projects\ElivThade\ElivThade\obj\Debug\ElivThade.csproj.GenerateResource.Cache
+\\banner.main.ad.rit.edu\students\tkw8341\IGMProfile\Documents\Visual Studio 2012\Projects\ElivThade\ElivThade\obj\Debug\ElivThade.exe
+\\banner.main.ad.rit.edu\students\tkw8341\IGMProfile\Documents\Visual Studio 2012\Projects\ElivThade\ElivThade\obj\Debug\ElivThade.pdb
+C:\Users\Todd\Desktop\ElivThade\ElivThade\bin\Debug\ElivThade.exe.config
+C:\Users\Todd\Desktop\ElivThade\ElivThade\obj\Debug\ElivThade.exe
+C:\Users\Todd\Desktop\ElivThade\ElivThade\obj\Debug\ElivThade.pdb
+\\banner.main.ad.rit.edu\students\tkw8341\IGMProfile\Desktop\ElivThade\ElivThade\bin\Debug\ElivThade.exe.config
+\\banner.main.ad.rit.edu\students\tkw8341\IGMProfile\Desktop\ElivThade\ElivThade\obj\Debug\ElivThade.exe
+\\banner.main.ad.rit.edu\students\tkw8341\IGMProfile\Desktop\ElivThade\ElivThade\obj\Debug\ElivThade.pdb
+\\banner.main.ad.rit.edu\students\tkw8341\IGMProfile\Desktop\ElivThade\ElivThade\obj\Debug\ElivThade.csprojResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\tkw8341\IGMProfile\Desktop\ElivThade\ElivThade\obj\Debug\ElivThade.Form1.resources
+\\banner.main.ad.rit.edu\students\tkw8341\IGMProfile\Desktop\ElivThade\ElivThade\obj\Debug\ElivThade.Properties.Resources.resources
+\\banner.main.ad.rit.edu\students\tkw8341\IGMProfile\Desktop\ElivThade\ElivThade\obj\Debug\ElivThade.csproj.GenerateResource.Cache
+C:\Users\Todd\Desktop\ElivThade\ElivThade\obj\Debug\ElivThade.csprojResolveAssemblyReference.cache
+C:\Users\Todd\Desktop\ElivThade\ElivThade\obj\Debug\ElivThade.Form1.resources
+C:\Users\Todd\Desktop\ElivThade\ElivThade\obj\Debug\ElivThade.Properties.Resources.resources
+C:\Users\Todd\Desktop\ElivThade\ElivThade\obj\Debug\ElivThade.csproj.GenerateResource.Cache
+C:\Users\Todd\Desktop\ElivThade\ElivThade\bin\Debug\ElivThade.exe
+C:\Users\Todd\Desktop\ElivThade\ElivThade\bin\Debug\ElivThade.pdb
+\\banner.main.ad.rit.edu\students\tkw8341\IGMProfile\Desktop\ElivThade\ElivThade\bin\Debug\ElivThade.exe
+\\banner.main.ad.rit.edu\students\tkw8341\IGMProfile\Desktop\ElivThade\ElivThade\bin\Debug\ElivThade.pdb
+C:\Users\Student\Desktop\ElivThade\ElivThade\bin\Debug\ElivThade.exe.config
+C:\Users\Student\Desktop\ElivThade\ElivThade\obj\Debug\ElivThade.exe
+C:\Users\Student\Desktop\ElivThade\ElivThade\obj\Debug\ElivThade.pdb
+C:\Users\Student\Desktop\ElivThade\ElivThade\bin\Debug\ElivThade.exe
+C:\Users\Student\Desktop\ElivThade\ElivThade\bin\Debug\ElivThade.pdb
+C:\Users\Student\Desktop\ElivThade\ElivThade\obj\Debug\ElivThade.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\ElivThade\ElivThade\obj\Debug\ElivThade.Form1.resources
+C:\Users\Student\Desktop\ElivThade\ElivThade\obj\Debug\ElivThade.Properties.Resources.resources
+C:\Users\Student\Desktop\ElivThade\ElivThade\obj\Debug\ElivThade.csproj.GenerateResource.Cache
